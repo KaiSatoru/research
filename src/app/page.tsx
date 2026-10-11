@@ -11,7 +11,7 @@ export default function HomePage() {
         className="absolute inset-0 w-full h-full bg-cover bg-center sm:bg-right-bottom bg-no-repeat select-none pointer-events-none transition-all duration-300 animate-slow-breathe"
         style={{
           backgroundImage: "url('/images/hero-anime.png')",
-          filter: "grayscale(100%) contrast(125%) brightness(0.85)",
+          filter: "grayscale(100%) contrast(125%) brightness(0.80)",
         }}
       />
 
